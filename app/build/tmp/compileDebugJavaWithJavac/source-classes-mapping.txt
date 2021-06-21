@@ -1,0 +1,13 @@
+com/example/notes/NotesTextActivity.java
+ com.example.notes.NotesTextActivity
+com/example/notes/BuildConfig.java
+ com.example.notes.BuildConfig
+com/example/notes/Notes.java
+ com.example.notes.Notes
+ com.example.notes.Notes$1
+com/example/notes/MainActivity.java
+ com.example.notes.MainActivity
+com/example/notes/FragmentListNotes.java
+ com.example.notes.FragmentListNotes
+com/example/notes/FragmentTextNote.java
+ com.example.notes.FragmentTextNote
