@@ -18,7 +18,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.Notes" >
+        android:theme="@style/AppTheme.NoActionBar" >
         <activity android:name="com.example.notes.NotesTextActivity" />
         <activity android:name="com.example.notes.MainActivity" >
             <intent-filter>

@@ -1655,8 +1655,6 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
-drawable ic_launcher_background
-drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -1745,6 +1743,7 @@ id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
 id action0
+id action_back
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1761,6 +1760,8 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_search
+id action_settings
 id action_text
 id actions
 id activity_chooser_view_content
@@ -1843,6 +1844,7 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
+id drawer_layout
 id dropdown_menu
 id easeIn
 id easeInOut
@@ -1928,6 +1930,8 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id media_actions
+id menu_add
+id menu_clear
 id message
 id middle
 id mini
@@ -2099,6 +2103,8 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
+id toolbar
+id toolbar2
 id top
 id topPanel
 id touch_outside
@@ -2281,6 +2287,8 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu main
+menu menu2
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -2329,7 +2337,13 @@ string fab_transformation_sheet_behavior
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string item_name
 string item_view_role_description
+string main_manu_back
+string main_menu_add
+string main_menu_exit
+string main_menu_search
+string main_menu_settings
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection
@@ -2395,6 +2409,10 @@ style Animation_AppCompat_DropDownUp
 style Animation_AppCompat_Tooltip
 style Animation_Design_BottomSheetDialog
 style Animation_MaterialComponents_BottomSheetDialog
+style AppTheme
+style AppTheme_AppBarOverlay
+style AppTheme_NoActionBar
+style AppTheme_PopupOverlay
 style Base_AlertDialog_AppCompat
 style Base_AlertDialog_AppCompat_Light
 style Base_Animation_AppCompat_Dialog
